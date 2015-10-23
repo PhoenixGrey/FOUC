@@ -1,0 +1,15 @@
+{
+  "name": "fouc",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "jQuery": "2.1.4"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
