@@ -1,29 +1,4 @@
-@font-face {
-    font-family: 'Kaushan Script';
-    font-style: normal;
-    font-weight: 400;
-    src: url(../fonts/qx1LSqts-NtiKcLw4N03IBIQBoEaGPNdJer02Ur_lgM.woff2) format('woff2'), url(../fonts/qx1LSqts-NtiKcLw4N03IIvF6zj5D999nrzvIIYOFIY.woff) format('woff');
-    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
-}
-
-@font-face {
-    font-family: 'Kaushan';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Kaushan Script'), local('KaushanScript-Regular'), url(../fonts/qx1LSqts-NtiKcLw4N03IBIQBoEaGPNdJer02Ur_lgM.woff2) format('woff2'), url(../fonts/qx1LSqts-NtiKcLw4N03IIvF6zj5D999nrzvIIYOFIY.woff) format('woff');
-    src: local('Kaushan Script'), local('KaushanScript-Regular'), url(../fonts/qx1LSqts-NtiKcLw4N03IBIQBoEaGPNdJer02Ur_lgM.woff2) format('woff2'), url(../fonts/qx1LSqts-NtiKcLw4N03IIvF6zj5D999nrzvIIYOFIY.woff) format('woff');
-
-    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
-}
 #foot {
   background-color: #003399;
-}
-
-#logo {
-  background-color: #003399;
-}
-
-body h1 {
-  font-family: 'Kaushan Script';
 }
 
