@@ -1,11 +1,23 @@
 <html>
   <head>
     <title>FOUC Demo</title>
-    <link rel="stylesheet" type="text/css" href="../Css/fouc.css">
+    <link rel="stylesheet" type="text/css" href="../bower_components/bootstrap/dist/css/bootstrap.min.css">
   </head>
-  <body bgcolor="003399">
-    <center><img src="../Images/logo.png" align="bottom"></center>
+  <body>
+    <div id="logo" class="page-header">
+      <center><img src="../Images/logo.png" align="bottom"></center>
+    </div>
+    <div>
+      <h1> With Fonts Loaded </h1>
+      <h2> Without Fonts Loaded </h2>
+    </div>
     <script src="../bower_components/jQuery/dist/jquery.min.js"></script>
     <script src="./JS/fouc.js"></script>
+    <link rel="stylesheet" type="text/css" href="../Css/fouc.css">
+    <!-- IMG FOUC
+    <div id="foot" class="page-header">
+      <center><img src="../Images/errpage_img.png" align="bottom"></center>
+    </div>
+    -->
   </body>
 </html>
