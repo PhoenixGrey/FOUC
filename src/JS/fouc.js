@@ -32,5 +32,5 @@ jsFouc = function () {
 
 
 $(document).ready(function(){
-//  jsFouc();
+  jsFouc();
 });
