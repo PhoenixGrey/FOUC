@@ -19,17 +19,17 @@ Step 1: Check out to the corresponding branch
 
 Step 2: build
 ```
-npm install
-cd src
-bower install
-cd ..
-grunt
+	$ make
 ```
+If you have made it before, just `$ grunt`
 
 Step 3: Execute
 ```
-cd build
-python -m SimpleHTTPServer
+	$ node app.js
 ```
 
 Step 4: Visit http server by typing `127.0.0.1:8000`
+
+## Notice
+
+If the process throws error `Address already in use`, just `killall python`.
