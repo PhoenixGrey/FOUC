@@ -13,9 +13,9 @@ respectively.
 
 Step 1: Check out to the corresponding branch
 
-* Working on font `git checkout -b fouc/font`
-* Working on image `git checkout -b fouc/image`
-* Working on javascripts `git checkout -b fouc/js`
+* Working on font `git checkout -b fouc/font origin/fouc/font`
+* Working on image `git checkout -b fouc/image origin/fouc/image`
+* Working on javascripts `git checkout -b fouc/js origin/fouc/js`
 
 Step 2: build
 ```
