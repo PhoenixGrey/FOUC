@@ -32,3 +32,4 @@ cd build
 python -m SimpleHTTPServer
 ```
 
+Step 4: Visit http server by typing `127.0.0.1:8000`
