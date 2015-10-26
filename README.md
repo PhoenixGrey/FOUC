@@ -19,6 +19,10 @@ Step 1: Check out to the corresponding branch
 
 Step 2: build
 ```
+npm install
+cd src
+bower install
+cd ..
 grunt
 ```
 
